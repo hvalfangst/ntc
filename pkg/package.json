@@ -1,0 +1,13 @@
+{
+  "name": "norwegian_tax_calculator",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "norwegian_tax_calculator_bg.wasm",
+    "norwegian_tax_calculator.js"
+  ],
+  "main": "norwegian_tax_calculator.js",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}

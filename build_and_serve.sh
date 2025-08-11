@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# First wipe the target directory to ensure a clean build
+cargo clean
+
 # Build the WebAssembly package
 echo "Building WebAssembly package..."
 wasm-pack build --target web --out-dir pkg --no-typescript
