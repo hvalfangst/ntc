@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Convert line endings to Unix format first
+dos2unix "$0" 2>/dev/null
+
 # First wipe the target directory to ensure a clean build
 cargo clean
 
