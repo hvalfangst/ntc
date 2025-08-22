@@ -1,7 +1,7 @@
 # Norwegian Tax Calculator
 
 A tax calculation application built with Leptos and Rust, designed to calculate Norwegian taxes for individuals, corporations (AS), and partnerships (deltakerlignet selskap) based on 2024 tax regulations.
-Can be accessed in your web browser at: https://hvalfangst.github.io/ntc
+Can be accessed in your web browser at: https://hvalfangst.github.io/norwegian-tax-calculator
 
 ## Prerequisites
 - [Rust](https://www.rust-lang.org/tools/install)

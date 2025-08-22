@@ -1,4 +1,4 @@
-name: Deploy NTC to GitHub Pages
+name: Deploy Norwegian Tax Calculator to GitHub Pages
 
 on:
   workflow_dispatch:
